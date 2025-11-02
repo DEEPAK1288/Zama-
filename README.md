@@ -7,3 +7,4 @@ Second commit for Zama project.
 Third commit for Zama contribution
 Added more details about encryption
 FHE example added
+Small note for learning
