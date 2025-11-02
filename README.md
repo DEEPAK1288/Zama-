@@ -6,3 +6,4 @@ Supporting privacy-preserving computation using Fully Homomorphic Encryption (FH
 Second commit for Zama project.
 Third commit for Zama contribution
 Added more details about encryption
+FHE example added
