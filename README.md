@@ -9,3 +9,4 @@ Added more details about encryption
 FHE example added
 Small note for learning
 Privacy computation update
+Added research info
